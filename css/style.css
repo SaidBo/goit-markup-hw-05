@@ -435,7 +435,7 @@ img {
   color: var(--white-color);
 }
 
-/* OUR CLIENTS */
+                                    /* OUR CLIENTS */
 
 .clients-list {
   display: flex;
@@ -481,7 +481,7 @@ img {
   fill: currentColor;
 }
 
-/* footer */
+                                        /* footer */
 
 .footer {
   padding-bottom: 60px;
